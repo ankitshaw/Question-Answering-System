@@ -1,0 +1,6 @@
+flask
+flask_ngrok
+apex
+git+https://github.com/deepset-ai/haystack.git
+urllib3==1.25.4
+apt-get install xpdf
